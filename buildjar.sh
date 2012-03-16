@@ -3,6 +3,7 @@
 mkdir colors
 cp Solarized\ Light.xml colors
 cp Solarized\ Dark.xml colors
+cp Solarized\ Pim.xml colors
 touch IntelliJ\ IDEA\ Global\ Settings
 
 jar cfM settings.jar IntelliJ\ IDEA\ Global\ Settings colors
